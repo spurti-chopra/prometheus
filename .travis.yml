@@ -1,4 +1,6 @@
 sudo: false
+os: power
+dist: xenial
 
 language: go
 
